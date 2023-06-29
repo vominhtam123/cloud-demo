@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    color : red; 
+}
+div{
+
+    background-color:aqua;
+    height: 100px;
+    width: 100%;
+    padding: 10px;
+
+}
+
+li{
+    font-size: 20px;
+    color: blue;
+}
